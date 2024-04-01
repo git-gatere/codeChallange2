@@ -1,7 +1,7 @@
 function charSwap(string) {
      string.split('')
-     
-    return ;
+     for (let i = 0, i < string.length, i++ )
+
+    return ; 
     
 }
-charSwap('swap')
