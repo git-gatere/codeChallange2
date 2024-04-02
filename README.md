@@ -28,7 +28,7 @@ Git clone git@github.com:git-gatere/codeChallange2.git
 ```
 
 # Live Link
-[Git](https://github.com/git-gatere/codeChallange2.git)
+https://github.com/git-gatere/codeChallange2.git
 
 ## Technologies used
 Github
